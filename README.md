@@ -18,7 +18,7 @@ $ sh ./install.apps.sh
 * Then the script will install the apps one by one.
 
 ## List of installable apps in the script
-* `ubuntu-restricted-extras`: Flash, Java, Rar, codecs and more**
+* `ubuntu-restricted-extras`: Flash, Java, Rar, codecs and more
 * `smplayer`: Video player
 * `audacious`: Music player
 * `qbittorrent`: Torrent client
